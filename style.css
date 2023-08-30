@@ -95,4 +95,8 @@ h1.temp {
   opacity: 1;
 }
 
-
+footer {
+  text-align: center;
+  padding: 1rem 0;
+  background-color: #f4f4f4;
+}
